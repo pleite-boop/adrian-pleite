@@ -58,3 +58,60 @@ Este documento presenta información sobre las 10 licencias de software más uti
 10. **Ms-PL**
     - Permisiva pero con restricciones en usos maliciosos
     - Compatible con entornos Microsoft
+
+# ADRIÁN PLEITE DÍAZ
+
+Vestibulumquisdolor a felisconguevehicula. Maecenaspedperus, tristique ac, tempusget, egestasquis, mauris. Curabiturnoneros. Nullamhendrerit bibendum justo. Fusceutaculis, quisqualibero pretium, pellentesquelectus. Aliquam erat volutpat. Quisqueornarepellentesque, ultmalesuada at ante. Quisquemperplaceratcras. Utmolestie magna at mi.
+
+ Tel: 663777777 |  adrian@example.com | Dirección  
+[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+
+---
+
+## EXPERIENCIA
+
+### INFORMÁTICO
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretiumutmassa, mi rutrumetegestas at semvenenatisfelis.
+
+- Nunc lacus metus, posuereet
+- Laciniaei, variusquislobre
+- Aliquammornumyoigpadipsingueque.
+- Loremipsum dolor sit amet
+- Consecteturdapiscilignelit
+- Maecenas porttitor
+
+### INFORMÁTICO
+Cras non magna vel ante adipiscingrhoncus. Vivamus a mi. MorbiutnequeAcansecspedeurus, tristiqueque, egestasquis, mauris. Curabitur
+
+- Fuscosposuere magna sed
+- Pulvinarturicies
+- Purus lectusmalesuadaalibero
+- Sitametcommodo
+- Magna erosquisurna
+
+---
+
+## EDUCACIÓN
+
+### CENTRO EDUCATIVO
+Cras non magna vel ante adipiscingrhoncus. Vivamus a mi. MorbiutnequeAcansecspedeurus, tristiqueque, egestasquis, mauris.
+
+### CENTRO EDUCATIVO
+Vivamus a mi. MorbiutnequeAcansecspedeurus, tristiqueque, egestasquis, mauris. Curabitur
+
+---
+
+## HABILIDADES
+
+- Fuscosposuere magna sed  
+- Pulvinarturicies  
+- Purus lectusmalesuadaalibero  
+
+---
+
+## IDIOMAS
+
+- Fuscosposuere magna sed  
+- Pulvinarturicies  
+- Purus lectusmalesuadaalibero  
+- Sitametcommodo  
